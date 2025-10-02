@@ -1,0 +1,32 @@
+.materia-card {
+  border: 1px solid transparent;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 160px;
+  min-height: 80px; /* Usamos min-height para flexibilidad */
+  box-sizing: border-box;
+  font-size: 0.85em;
+  border-radius: 8px;
+  color: white;
+  font-weight: 500;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.materia-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+/* --- Paleta de Colores --- */
+.tipo-core { background-color: #0d47a1; } /* Azul oscuro */
+.tipo-practica { background-color: #f57f17; } /* Naranja */
+.tipo-idioma { background-color: #004d40; } /* Verde oscuro */
+.tipo-programacion { background-color: #b71c1c; } /* Rojo oscuro */
+.tipo-ciencias { background-color: #4a148c; } /* Morado */
+.tipo-optativa { background-color: #37474f; } /* Gris azulado */
+.tipo-default { background-color: #424242; } /* Gris */
+

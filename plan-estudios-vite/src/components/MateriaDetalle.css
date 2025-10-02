@@ -1,0 +1,96 @@
+.detalle-container {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  animation: fadeIn 0.5s ease-in-out;
+  color: #333;
+}
+
+.back-button {
+  background-color: transparent;
+  border: none;
+  color: #646cff;
+  font-size: 1em;
+  font-weight: bold;
+  padding: 15px 20px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  display: flex;
+  align-items: center;
+}
+
+.back-button:hover {
+  background-color: #f0f0f0;
+}
+
+.detalle-header {
+  padding: 30px 20px;
+  color: white;
+}
+
+.detalle-header h2 {
+  margin: 0;
+  font-size: 1.8em;
+}
+
+.detalle-content {
+  padding: 20px;
+}
+
+.media-placeholder {
+  border: 2px dashed #ccc;
+  border-radius: 8px;
+  padding: 40px;
+  text-align: center;
+  color: #888;
+  margin-top: 20px;
+}
+
+.media-section {
+  margin-top: 30px;
+}
+
+.media-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.media-section li a {
+  display: block;
+  padding: 12px 15px;
+  background-color: #f8f9fa;
+  border-radius: 5px;
+  margin-bottom: 8px;
+  text-decoration: none;
+  color: #0d47a1;
+  font-weight: 500;
+  border: 1px solid #e9ecef;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.media-section li a:hover {
+  background-color: #e9ecef;
+  color: #002b6d;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Re-utilizamos los colores para consistencia */
+.tipo-core { background-color: #0d47a1; }
+.tipo-practica { background-color: #f57f17; }
+.tipo-idioma { background-color: #004d40; }
+.tipo-programacion { background-color: #b71c1c; }
+.tipo-ciencias { background-color: #4a148c; }
+.tipo-optativa { background-color: #37474f; }
+.tipo-default { background-color: #424242; }
+

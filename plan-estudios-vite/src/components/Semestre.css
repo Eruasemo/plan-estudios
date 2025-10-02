@@ -1,0 +1,23 @@
+.semestre-fila {
+  display: flex;
+  align-items: stretch; /* Para que todos los elementos tengan la misma altura */
+}
+
+.semestre-etiqueta {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #495057;
+  margin-right: 20px;
+  width: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0; /* Evita que el label se encoja */
+}
+
+.materias-contenedor {
+  display: flex;
+  flex-wrap: wrap; /* Permite que las materias pasen a la siguiente línea si no caben */
+  gap: 10px;
+}
+
