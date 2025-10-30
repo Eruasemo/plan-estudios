@@ -1,0 +1,303 @@
+[
+  {
+    "semestre": "1º",
+    "materias": [
+      {
+        "nombre": "Lógica y Filosofía de la Ciencia",
+        "tipo": "core"
+      },
+      {
+        "nombre": "Inmersión a la Proyectación y su Aplicación",
+        "tipo": "practica"
+      },
+      {
+        "nombre": "Geometría Descriptiva y Aplicada",
+        "tipo": "core"
+      },
+      {
+        "nombre": "Dibujo para el Diseño",
+        "tipo": "core"
+      },
+      {
+        "nombre": "Metodología del Diseño del Espacio",
+        "tipo": "core"
+      },
+      {
+        "nombre": "Fundamentos del Diseño",
+        "tipo": "core"
+      },
+      {
+        "nombre": "Expresión Arquitectónica Técnica",
+        "tipo": "practica"
+      }
+    ]
+  },
+  {
+    "semestre": "2º",
+    "materias": [
+      {
+        "nombre": "Lengua Extranjera I",
+        "tipo": "idioma"
+      },
+      {
+        "nombre": "Técnicas de Representación",
+        "tipo": "core"
+      },
+      {
+        "nombre": "Fundamentos Matemáticos para la Arquitectura",
+        "tipo": "core"
+      },
+      {
+        "nombre": "Taller de Diseño Arquitectónico Funcional",
+        "tipo": "core"
+      },
+      {
+        "nombre": "Metodología de la Investigación Arquitectónica",
+        "tipo": "core"
+      },
+      {
+        "nombre": "Dibujo Técnico Paramétrico",
+        "tipo": "programacion"
+      },
+      {
+        "nombre": "Croquis Aplicado",
+        "tipo": "core"
+      }
+    ]
+  },
+  {
+    "semestre": "3º",
+    "materias": [
+      {
+        "nombre": "Antropología Filosófica",
+        "tipo": "core"
+      },
+      {
+        "nombre": "Lengua Extranjera II",
+        "tipo": "idioma"
+      },
+      {
+        "nombre": "Sistemas Constructivos, Elementales y Alternativos",
+        "tipo": "core"
+      },
+      {
+        "nombre": "Estática para Arquitectos",
+        "tipo": "ciencias"
+      },
+      {
+        "nombre": "Taller de Diseño Arquitectónico Formal",
+        "tipo": "core"
+      },
+      {
+        "nombre": "Expresión Digital Tridimensional",
+        "tipo": "programacion"
+      },
+      {
+        "nombre": "Arquitectura Antigua, Clásica y Medieval",
+        "tipo": "core"
+      },
+      {
+        "nombre": "Maquetas y Prototipos de Hábitat Habitable",
+        "tipo": "optativa"
+      }
+    ]
+  },
+  {
+    "semestre": "4º",
+    "materias": [
+      {
+        "nombre": "Gestión de la Innovación Sostenible",
+        "tipo": "ciencias"
+      },
+      {
+        "nombre": "Lengua Extranjera III",
+        "tipo": "idioma"
+      },
+      {
+        "nombre": "Resistencia de Materiales",
+        "tipo": "ciencias"
+      },
+      {
+        "nombre": "Taller de Diseño con Sistemas Constructivos y Ambientales",
+        "tipo": "core"
+      },
+      {
+        "nombre": "Fundamentos y Crítica de la Teoría Arquitectónica",
+        "tipo": "core"
+      },
+      {
+        "nombre": "Presentación Profesional de Proyectos",
+        "tipo": "practica"
+      },
+      {
+        "nombre": "Normatividad del Espacio Habitable y Urbano",
+        "tipo": "core"
+      }
+    ]
+  },
+  {
+    "semestre": "5º",
+    "materias": [
+      {
+        "nombre": "Fundamentos del Diseño Sustentable",
+        "tipo": "ciencias"
+      },
+      {
+        "nombre": "Lengua Extranjera IV",
+        "tipo": "idioma"
+      },
+      {
+        "nombre": "Morfología de las Estructuras",
+        "tipo": "ciencias"
+      },
+      {
+        "nombre": "Diseño de Instalaciones Básicas",
+        "tipo": "core"
+      },
+      {
+        "nombre": "Historia, Teoría y Práctica del Urbanismo",
+        "tipo": "core"
+      },
+      {
+        "nombre": "Administración de Proyectos y Obras",
+        "tipo": "practica"
+      },
+      {
+        "nombre": "Arquitectura Renacentista, Barroca e Industrial",
+        "tipo": "core"
+      }
+    ]
+  },
+  {
+    "semestre": "6º",
+    "materias": [
+      {
+        "nombre": "Ética Profesional",
+        "tipo": "core"
+      },
+      {
+        "nombre": "Prácticas Profesionales I",
+        "tipo": "practica"
+      },
+      {
+        "nombre": "Taller de Sustentabilidad en el Diseño Arquitectónico",
+        "tipo": "ciencias"
+      },
+      {
+        "nombre": "Optativa de Diseño",
+        "tipo": "optativa"
+      },
+      {
+        "nombre": "Envolventes y Acabados",
+        "tipo": "core"
+      },
+      {
+        "nombre": "Análisis y Diseño Estructural Elemental y Alternativo",
+        "tipo": "ciencias"
+      },
+      {
+        "nombre": "Instalaciones Eléctricas y Especiales",
+        "tipo": "core"
+      }
+    ]
+  },
+  {
+    "semestre": "7º",
+    "materias": [
+      {
+        "nombre": "Cultura y Desarrollo e Innovación Sostenible",
+        "tipo": "ciencias"
+      },
+      {
+        "nombre": "Proyecto de Diseño Urbano Sustentable",
+        "tipo": "ciencias"
+      },
+      {
+        "nombre": "Supervisión y Control de Sistemas Organizacionales",
+        "tipo": "practica"
+      },
+      {
+        "nombre": "Conservación y Restauración del Patrimonio Cultural",
+        "tipo": "core"
+      },
+      {
+        "nombre": "Taller de Diseño, Preservación y Reciclaje Arquitectónico",
+        "tipo": "core"
+      },
+      {
+        "nombre": "Crítica Arquitectónica Moderna y Contemporánea",
+        "tipo": "core"
+      },
+      {
+        "nombre": "Costos y Presupuestos de Obra con BIM",
+        "tipo": "programacion"
+      }
+    ]
+  },
+  {
+    "semestre": "8º",
+    "materias": [
+      {
+        "nombre": "Emprendimiento en la Innovación Sostenible",
+        "tipo": "ciencias"
+      },
+      {
+        "nombre": "Evaluación Integral de las Instalaciones Sustentables",
+        "tipo": "ciencias"
+      },
+      {
+        "nombre": "Optativa de Formación Profesional I",
+        "tipo": "optativa"
+      },
+      {
+        "nombre": "Supervisión y Control de Instalaciones y Acabados",
+        "tipo": "practica"
+      },
+      {
+        "nombre": "Taller de Diseño y Equipamiento Cultural e Institucional",
+        "tipo": "core"
+      },
+      {
+        "nombre": "Taller de Investigación para el Proyecto Arquitectónico",
+        "tipo": "core"
+      },
+      {
+        "nombre": "Taller de Construcción con BIM",
+        "tipo": "programacion"
+      }
+    ]
+  },
+  {
+    "semestre": "9º",
+    "materias": [
+      {
+        "nombre": "Prácticas Profesionales II",
+        "tipo": "practica"
+      },
+      {
+        "nombre": "Optativa de Formación Profesional II",
+        "tipo": "optativa"
+      },
+      {
+        "nombre": "Optativa de Formación Universitaria II",
+        "tipo": "optativa"
+      },
+      {
+        "nombre": "Consultoría Técnica Especializada",
+        "tipo": "practica"
+      },
+      {
+        "nombre": "Taller de Diseño Arquitectónico de Integración Profesional",
+        "tipo": "core"
+      },
+      {
+        "nombre": "Análisis Retrospectivo del Arte y Arquitectura del Siglo XX y XXI",
+        "tipo": "core"
+      },
+      {
+        "nombre": "Proyectos Inmobiliarios y Teoría Económica",
+        "tipo": "practica"
+      }
+    ]
+  }
+]
